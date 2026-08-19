@@ -1,6 +1,6 @@
 ### about me
 
-hey! i'm nishtha - check out my work on my [webOS (my personal website)](https://nishthas.me/)<br />
+hey! i'm nishtha - check out my work on my [my personal website](https://nishtha-sharma.netlify.app/)<br />
 my [tutoring website](https://www.makemathsimple.com/)
 
 Some of my projects: <br />
