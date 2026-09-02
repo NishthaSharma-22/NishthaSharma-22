@@ -1,7 +1,6 @@
 ### about me
 
 hey! i'm nishtha - check out my work on my [my personal website](https://nishtha-sharma.netlify.app/)<br />
-my [tutoring website](https://www.makemathsimple.com/)
 
 Some of my projects: <br />
 Browser Extensions: [SAT Math Toolbar for Khan Academy](https://chromewebstore.google.com/detail/sat-math-toolbar/hkflbpkbhdlhikfbophoenepogkpklnf?authuser=0&hl=en),  [Star My ChatGPT Chats](https://chromewebstore.google.com/detail/oijdjkhegpfmckaecondjgklpekgdlco?utm_source=item-share-cb) <br />
