@@ -2,6 +2,9 @@
 
 hey! i'm nishtha - check out my work on my [my personal website](https://nishtha-sharma.netlify.app/)<br />
 
+currently working on:
+star.ly! (launches mid-December): an SAT and ACT Math app to help you prep more efficiently!
+
 Some of my projects: <br />
 Browser Extensions: [SAT Math Toolbar for Khan Academy](https://chromewebstore.google.com/detail/sat-math-toolbar/hkflbpkbhdlhikfbophoenepogkpklnf?authuser=0&hl=en),  [Star My ChatGPT Chats](https://chromewebstore.google.com/detail/oijdjkhegpfmckaecondjgklpekgdlco?utm_source=item-share-cb) <br />
 MCP Tool for Making PPTs [Available as a python package](https://pypi.org/project/mcp-ptm-ppt-generator/) <br />
